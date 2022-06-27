@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/collosal/static/css/main.da8e2702.css",
+    "main.js": "/collosal/static/js/main.ae6fff79.js",
+    "static/js/787.adcd8593.chunk.js": "/collosal/static/js/787.adcd8593.chunk.js",
+    "static/media/bg.svg": "/collosal/static/media/bg.31725a2584bf4cc4490c.svg",
+    "index.html": "/collosal/index.html",
+    "main.da8e2702.css.map": "/collosal/static/css/main.da8e2702.css.map",
+    "main.ae6fff79.js.map": "/collosal/static/js/main.ae6fff79.js.map",
+    "787.adcd8593.chunk.js.map": "/collosal/static/js/787.adcd8593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da8e2702.css",
+    "static/js/main.ae6fff79.js"
+  ]
+}
