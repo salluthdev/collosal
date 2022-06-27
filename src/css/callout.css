@@ -1,0 +1,33 @@
+.callout
+{
+	display: flex;
+	flex-direction: column;
+	gap: 46px;
+	margin: 108px auto;
+}
+.callout hr
+{
+	border: none;
+	border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+.callout .content
+{
+	display: flex;
+	align-items: center;
+	gap: 60px;
+}
+.callout .content h1
+{
+	font-size: 30px;
+	line-height: 48px;
+}
+.callout .content .button-wrapper
+{
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.callout .content .button-wrapper button
+{
+	white-space: nowrap;
+}

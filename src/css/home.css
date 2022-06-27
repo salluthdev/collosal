@@ -1,0 +1,67 @@
+.hero-section
+{
+	max-width: 600px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin: 108px auto;
+}
+.hero-section h2
+{
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #16fcd2;
+}
+.hero-section h1
+{
+	font-size: 36px;
+	line-height: 54px;
+	margin: 12px 0 24px;
+}
+.hero-section p
+{
+	max-width: 536px;
+	line-height: 32px;
+	color: rgba(255, 255, 255, 0.6);
+}
+.hero-section .btn-wrapper
+{
+	display: flex;
+	gap: 24px;
+	margin-top: 40px;
+}
+.feature-card
+{
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	flex-wrap: wrap;
+	margin: 0 auto;
+}
+.feature-card .card
+{
+	width: 328px;
+	height: 276px;
+	background: rgba(255, 255, 255, 0.05);
+	border: 1px solid transparent;
+	border-radius: 5px;
+	padding: 32px 40px;
+}
+.feature-card .card:hover
+{
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	transition: none;
+}
+.feature-card .card h3
+{
+	font-size: 18px;
+	font-weight: 600;
+	margin: 28px 0 8px;
+}
+.feature-card .card p
+{
+	line-height: 32px;
+	color: rgba(255, 255, 255, 0.6);
+}
