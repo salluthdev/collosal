@@ -1,5 +1,6 @@
 import '../css/callout.css';
 import { Link } from 'react-router-dom';
+import Button from './Button';
 
 function Callout() {
 	return (
@@ -9,10 +10,10 @@ function Callout() {
 				<h1>We've prepared everything, it's time for you to tell the problem</h1>
 				<div className="button-wrapper">
 					<Link to="/quote">
-						<button>Send Quote</button>
+						<Button>Send Quote</Button>
 					</Link>
 					<Link to="/faq">
-						<button className="light">Ask Us</button>
+						<Button variant="light">Ask Us</Button>
 					</Link>
 				</div>
 			</div>

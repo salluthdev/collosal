@@ -54,6 +54,7 @@
 	line-height: 28px;
 	color: rgba(255, 255, 255, 0.6);
 	cursor: pointer;
+	transition: 0.2s;
 }
 .footer .section .child-wrapper p:hover
 {
